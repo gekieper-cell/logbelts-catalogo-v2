@@ -46,7 +46,7 @@
   {
     "slug": "desmalezadoras",
     "nombre": "Desmalezadoras",
-    "totalProductos": 419,
+    "totalProductos": 418,
     "subcategorias": [
       {
         "slug": "accesorios-herramientas",
@@ -71,7 +71,7 @@
       {
         "slug": "cabezales-de-tanza",
         "nombre": "Cabezales de tanza",
-        "cantidad": 38
+        "cantidad": 37
       },
       {
         "slug": "cables",
