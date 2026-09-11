@@ -1,0 +1,755 @@
+[
+  {
+    "slug": "arnes",
+    "nombre": "Arnes",
+    "totalProductos": 1,
+    "subcategorias": [
+      {
+        "slug": "desmalezadora",
+        "nombre": "Desmalezadora",
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "slug": "carburacion",
+    "nombre": "Carburación",
+    "totalProductos": 94,
+    "subcategorias": [
+      {
+        "slug": "bombines-2t",
+        "nombre": "Bombines 2T",
+        "cantidad": 18
+      },
+      {
+        "slug": "llaves-pases-de-combustible",
+        "nombre": "Llaves pases de combustible",
+        "cantidad": 12
+      },
+      {
+        "slug": "mangueras-de-combustible",
+        "nombre": "Mangueras de combustible",
+        "cantidad": 33
+      },
+      {
+        "slug": "punzuares-de-carburador",
+        "nombre": "Punzuares de carburador",
+        "cantidad": 13
+      },
+      {
+        "slug": "valvulas",
+        "nombre": "Válvulas",
+        "cantidad": 18
+      }
+    ]
+  },
+  {
+    "slug": "desmalezadoras",
+    "nombre": "Desmalezadoras",
+    "totalProductos": 419,
+    "subcategorias": [
+      {
+        "slug": "accesorios-herramientas",
+        "nombre": "Accesorios / Herramientas",
+        "cantidad": 4
+      },
+      {
+        "slug": "aros",
+        "nombre": "Aros",
+        "cantidad": 10
+      },
+      {
+        "slug": "bobina-de-ignicion",
+        "nombre": "Bobina de ignición",
+        "cantidad": 13
+      },
+      {
+        "slug": "bomba-de-aceite",
+        "nombre": "Bomba de aceite",
+        "cantidad": 2
+      },
+      {
+        "slug": "cabezales-de-tanza",
+        "nombre": "Cabezales de tanza",
+        "cantidad": 38
+      },
+      {
+        "slug": "cables",
+        "nombre": "Cables",
+        "cantidad": 18
+      },
+      {
+        "slug": "cables-acelerador",
+        "nombre": "Cables acelerador",
+        "cantidad": 1
+      },
+      {
+        "slug": "caja-de-engranaje",
+        "nombre": "Caja de engranaje",
+        "cantidad": 33
+      },
+      {
+        "slug": "campana-de-embrague",
+        "nombre": "Campana de embrague",
+        "cantidad": 3
+      },
+      {
+        "slug": "carburadores",
+        "nombre": "Carburadores",
+        "cantidad": 28
+      },
+      {
+        "slug": "ciguenal",
+        "nombre": "Cigüeñal",
+        "cantidad": 24
+      },
+      {
+        "slug": "cilindros-completos",
+        "nombre": "Cilindros completos",
+        "cantidad": 3
+      },
+      {
+        "slug": "embragues",
+        "nombre": "Embragues",
+        "cantidad": 2
+      },
+      {
+        "slug": "embragues-campanas-resortes",
+        "nombre": "Embragues / Campanas / Resortes",
+        "cantidad": 24
+      },
+      {
+        "slug": "escapes",
+        "nombre": "Escapes",
+        "cantidad": 9
+      },
+      {
+        "slug": "filtro-de-aire",
+        "nombre": "Filtro de aire",
+        "cantidad": 16
+      },
+      {
+        "slug": "filtros-de-aire-reemplazos-2t",
+        "nombre": "Filtros de aire reemplazos 2T",
+        "cantidad": 3
+      },
+      {
+        "slug": "juntas-de-motor",
+        "nombre": "Juntas de motor",
+        "cantidad": 13
+      },
+      {
+        "slug": "kit-de-cilindros",
+        "nombre": "Kit de cilindros",
+        "cantidad": 10
+      },
+      {
+        "slug": "kit-de-piston",
+        "nombre": "Kit de pistón",
+        "cantidad": 8
+      },
+      {
+        "slug": "kits-de-juntas-y-diafragmas",
+        "nombre": "Kits de juntas y diafragmas",
+        "cantidad": 24
+      },
+      {
+        "slug": "mangueras-de-combustible",
+        "nombre": "Mangueras de combustible",
+        "cantidad": 4
+      },
+      {
+        "slug": "oleomac",
+        "nombre": "Oleomac",
+        "cantidad": 1
+      },
+      {
+        "slug": "partes",
+        "nombre": "Partes",
+        "cantidad": 68
+      },
+      {
+        "slug": "partes-de-carburador",
+        "nombre": "Partes de carburador",
+        "cantidad": 3
+      },
+      {
+        "slug": "pistones-y-aros",
+        "nombre": "Pistones y aros",
+        "cantidad": 7
+      },
+      {
+        "slug": "reten",
+        "nombre": "Retén",
+        "cantidad": 6
+      },
+      {
+        "slug": "sin-fines-husqvarna-otros",
+        "nombre": "Sin fines Husqvarna / Otros",
+        "cantidad": 2
+      },
+      {
+        "slug": "tanque-de-combustible-tapa",
+        "nombre": "Tanque de combustible / Tapa",
+        "cantidad": 16
+      },
+      {
+        "slug": "tanza-premium",
+        "nombre": "Tanza premium",
+        "cantidad": 7
+      },
+      {
+        "slug": "tapas-de-arranque",
+        "nombre": "Tapas de arranque",
+        "cantidad": 19
+      }
+    ]
+  },
+  {
+    "slug": "encendido",
+    "nombre": "Encendido",
+    "totalProductos": 2,
+    "subcategorias": [
+      {
+        "slug": "4t-2t",
+        "nombre": "4T / 2T",
+        "cantidad": 2
+      }
+    ]
+  },
+  {
+    "slug": "generadores",
+    "nombre": "Generadores",
+    "totalProductos": 12,
+    "subcategorias": [
+      {
+        "slug": "accesorios-herramientas",
+        "nombre": "Accesorios / Herramientas",
+        "cantidad": 1
+      },
+      {
+        "slug": "partes-de-motor-4t-13-16hp-gx270gx390gx420gx440",
+        "nombre": "Partes de motor 4T 13-16HP GX270/GX390/GX420/GX440",
+        "cantidad": 9
+      },
+      {
+        "slug": "partes-de-motor-4t-55-65hp-gx160gx200",
+        "nombre": "Partes de motor 4T 5.5-6.5HP GX160/GX200",
+        "cantidad": 1
+      },
+      {
+        "slug": "reemplazos-briggs-stratton",
+        "nombre": "Reemplazos Briggs & Stratton",
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "slug": "hidrolavadora-y-motobomba",
+    "nombre": "Hidrolavadora y motobomba",
+    "totalProductos": 49,
+    "subcategorias": [
+      {
+        "slug": "aros",
+        "nombre": "Aros",
+        "cantidad": 6
+      },
+      {
+        "slug": "juntas-de-motor",
+        "nombre": "Juntas de motor",
+        "cantidad": 6
+      },
+      {
+        "slug": "partes",
+        "nombre": "Partes",
+        "cantidad": 35
+      },
+      {
+        "slug": "tanque-de-combustible-tapa",
+        "nombre": "Tanque de combustible / Tapa",
+        "cantidad": 2
+      }
+    ]
+  },
+  {
+    "slug": "juntas-de-motor",
+    "nombre": "Juntas de motor",
+    "totalProductos": 91,
+    "subcategorias": [
+      {
+        "slug": "juntas-de-motor",
+        "nombre": "Juntas de motor",
+        "cantidad": 61
+      },
+      {
+        "slug": "kohler",
+        "nombre": "Kohler",
+        "cantidad": 12
+      },
+      {
+        "slug": "reemplazos",
+        "nombre": "Reemplazos",
+        "cantidad": 1
+      },
+      {
+        "slug": "tapas-de-cilindro",
+        "nombre": "Tapas de cilindro",
+        "cantidad": 17
+      }
+    ]
+  },
+  {
+    "slug": "maquinas-de-cortar-cesped",
+    "nombre": "Máquinas de cortar césped",
+    "totalProductos": 183,
+    "subcategorias": [
+      {
+        "slug": "cables",
+        "nombre": "Cables",
+        "cantidad": 11
+      },
+      {
+        "slug": "camaras-y-neumaticos",
+        "nombre": "Cámaras y neumáticos",
+        "cantidad": 12
+      },
+      {
+        "slug": "electroembragues",
+        "nombre": "Electroembragues",
+        "cantidad": 29
+      },
+      {
+        "slug": "neumaticos",
+        "nombre": "Neumáticos",
+        "cantidad": 2
+      },
+      {
+        "slug": "poleas",
+        "nombre": "Poleas",
+        "cantidad": 48
+      },
+      {
+        "slug": "resortes-de-plataformas",
+        "nombre": "Resortes de plataformas",
+        "cantidad": 3
+      },
+      {
+        "slug": "ruedas-de-plataforma-y-bulones",
+        "nombre": "Ruedas de plataforma y bulones",
+        "cantidad": 20
+      },
+      {
+        "slug": "ruedas-para-maquinas-de-empuje",
+        "nombre": "Ruedas para máquinas de empuje",
+        "cantidad": 6
+      },
+      {
+        "slug": "torretas-carcasas-ejes",
+        "nombre": "Torretas / Carcasas / Ejes",
+        "cantidad": 52
+      }
+    ]
+  },
+  {
+    "slug": "minitractores",
+    "nombre": "Minitractores",
+    "totalProductos": 509,
+    "subcategorias": [
+      {
+        "slug": "cables",
+        "nombre": "Cables",
+        "cantidad": 10
+      },
+      {
+        "slug": "cables-de-accionamiento",
+        "nombre": "Cables de accionamiento",
+        "cantidad": 20
+      },
+      {
+        "slug": "correas-de-kevlar",
+        "nombre": "Correas de kevlar",
+        "cantidad": 359
+      },
+      {
+        "slug": "cuchillas",
+        "nombre": "Cuchillas",
+        "cantidad": 18
+      },
+      {
+        "slug": "cuchillas-caroni",
+        "nombre": "Cuchillas Caroni",
+        "cantidad": 8
+      },
+      {
+        "slug": "cuchillas-convencionales-y-trituradoras",
+        "nombre": "Cuchillas convencionales y trituradoras",
+        "cantidad": 17
+      },
+      {
+        "slug": "cuchillas-reemplazos",
+        "nombre": "Cuchillas reemplazos",
+        "cantidad": 72
+      },
+      {
+        "slug": "filtro-de-aceite",
+        "nombre": "Filtro de aceite",
+        "cantidad": 5
+      }
+    ]
+  },
+  {
+    "slug": "motores-4t-y-generadores",
+    "nombre": "Motores 4T y generadores",
+    "totalProductos": 391,
+    "subcategorias": [
+      {
+        "slug": "3500",
+        "nombre": "3500",
+        "cantidad": 27
+      },
+      {
+        "slug": "6500",
+        "nombre": "6500",
+        "cantidad": 17
+      },
+      {
+        "slug": "bobina-de-ignicion",
+        "nombre": "Bobina de ignición",
+        "cantidad": 11
+      },
+      {
+        "slug": "carburadores",
+        "nombre": "Carburadores",
+        "cantidad": 68
+      },
+      {
+        "slug": "carburadores-2t-reemplazos",
+        "nombre": "Carburadores 2T reemplazos",
+        "cantidad": 1
+      },
+      {
+        "slug": "carburadores-4t-reemplazos",
+        "nombre": "Carburadores 4T reemplazos",
+        "cantidad": 1
+      },
+      {
+        "slug": "electroembragues",
+        "nombre": "Electroembragues",
+        "cantidad": 3
+      },
+      {
+        "slug": "filtros-de-aire-reemplazos-2t",
+        "nombre": "Filtros de aire reemplazos 2T",
+        "cantidad": 20
+      },
+      {
+        "slug": "filtros-de-aire-reemplazos-4t",
+        "nombre": "Filtros de aire reemplazos 4T",
+        "cantidad": 52
+      },
+      {
+        "slug": "filtros-de-aire-sopladoras-2t",
+        "nombre": "Filtros de aire sopladoras 2T",
+        "cantidad": 2
+      },
+      {
+        "slug": "kit-de-o-rings",
+        "nombre": "Kit de o-rings",
+        "cantidad": 4
+      },
+      {
+        "slug": "kits-de-juntas-y-diafragmas",
+        "nombre": "Kits de juntas y diafragmas",
+        "cantidad": 5
+      },
+      {
+        "slug": "partes-de-motor-4t-13-16hp-gx270gx390gx420gx440",
+        "nombre": "Partes de motor 4T 13-16HP GX270/GX390/GX420/GX440",
+        "cantidad": 100
+      },
+      {
+        "slug": "partes-de-motor-4t-55-65hp-gx160gx200",
+        "nombre": "Partes de motor 4T 5.5-6.5HP GX160/GX200",
+        "cantidad": 73
+      },
+      {
+        "slug": "reemplazos-briggs-stratton",
+        "nombre": "Reemplazos Briggs & Stratton",
+        "cantidad": 4
+      },
+      {
+        "slug": "reparaciones-de-carburador-kits-de-juntas",
+        "nombre": "Reparaciones de carburador / Kits de juntas",
+        "cantidad": 1
+      },
+      {
+        "slug": "tapas-de-depositos",
+        "nombre": "Tapas de depósitos",
+        "cantidad": 2
+      }
+    ]
+  },
+  {
+    "slug": "motosierras",
+    "nombre": "Motosierras",
+    "totalProductos": 555,
+    "subcategorias": [
+      {
+        "slug": "accesorios",
+        "nombre": "Accesorios",
+        "cantidad": 42
+      },
+      {
+        "slug": "accesorios-herramientas",
+        "nombre": "Accesorios / Herramientas",
+        "cantidad": 12
+      },
+      {
+        "slug": "aros",
+        "nombre": "Aros",
+        "cantidad": 15
+      },
+      {
+        "slug": "bobina-de-ignicion",
+        "nombre": "Bobina de ignición",
+        "cantidad": 12
+      },
+      {
+        "slug": "bomba-de-aceite-y-sin-fin",
+        "nombre": "Bomba de aceite y sin fin",
+        "cantidad": 43
+      },
+      {
+        "slug": "cables",
+        "nombre": "Cables",
+        "cantidad": 1
+      },
+      {
+        "slug": "cadenas-premium",
+        "nombre": "Cadenas premium",
+        "cantidad": 10
+      },
+      {
+        "slug": "campana-de-embrague",
+        "nombre": "Campana de embrague",
+        "cantidad": 11
+      },
+      {
+        "slug": "carburadores",
+        "nombre": "Carburadores",
+        "cantidad": 71
+      },
+      {
+        "slug": "ciguenal",
+        "nombre": "Cigüeñal",
+        "cantidad": 25
+      },
+      {
+        "slug": "cilindros-completos",
+        "nombre": "Cilindros completos",
+        "cantidad": 51
+      },
+      {
+        "slug": "embragues",
+        "nombre": "Embragues",
+        "cantidad": 12
+      },
+      {
+        "slug": "embragues-campanas-resortes",
+        "nombre": "Embragues / Campanas / Resortes",
+        "cantidad": 13
+      },
+      {
+        "slug": "escapes",
+        "nombre": "Escapes",
+        "cantidad": 17
+      },
+      {
+        "slug": "espadas-premium",
+        "nombre": "Espadas premium",
+        "cantidad": 17
+      },
+      {
+        "slug": "espadas-standard",
+        "nombre": "Espadas standard",
+        "cantidad": 20
+      },
+      {
+        "slug": "filtro-de-aceite",
+        "nombre": "Filtro de aceite",
+        "cantidad": 1
+      },
+      {
+        "slug": "filtro-de-aire",
+        "nombre": "Filtro de aire",
+        "cantidad": 3
+      },
+      {
+        "slug": "filtros-de-aire-reemplazos-2t",
+        "nombre": "Filtros de aire reemplazos 2T",
+        "cantidad": 11
+      },
+      {
+        "slug": "filtros-de-aire-sopladoras-2t",
+        "nombre": "Filtros de aire sopladoras 2T",
+        "cantidad": 2
+      },
+      {
+        "slug": "kit-de-cilindros",
+        "nombre": "Kit de cilindros",
+        "cantidad": 2
+      },
+      {
+        "slug": "kit-de-piston",
+        "nombre": "Kit de pistón",
+        "cantidad": 2
+      },
+      {
+        "slug": "kits-de-juntas-y-diafragmas",
+        "nombre": "Kits de juntas y diafragmas",
+        "cantidad": 24
+      },
+      {
+        "slug": "mangueras-de-combustible",
+        "nombre": "Mangueras de combustible",
+        "cantidad": 2
+      },
+      {
+        "slug": "partes",
+        "nombre": "Partes",
+        "cantidad": 41
+      },
+      {
+        "slug": "pistones-y-aros",
+        "nombre": "Pistones y aros",
+        "cantidad": 8
+      },
+      {
+        "slug": "reemplazos-briggs-stratton",
+        "nombre": "Reemplazos Briggs & Stratton",
+        "cantidad": 15
+      },
+      {
+        "slug": "reten",
+        "nombre": "Retén",
+        "cantidad": 6
+      },
+      {
+        "slug": "tanque-de-combustible-tapa",
+        "nombre": "Tanque de combustible / Tapa",
+        "cantidad": 35
+      },
+      {
+        "slug": "tapas-de-arranque",
+        "nombre": "Tapas de arranque",
+        "cantidad": 21
+      },
+      {
+        "slug": "tapas-de-depositos",
+        "nombre": "Tapas de depósitos",
+        "cantidad": 5
+      },
+      {
+        "slug": "tapas-filtro-de-aire-reemplazo-2t",
+        "nombre": "Tapas filtro de aire reemplazo 2T",
+        "cantidad": 5
+      }
+    ]
+  },
+  {
+    "slug": "repuestos-universales",
+    "nombre": "Repuestos universales",
+    "totalProductos": 27,
+    "subcategorias": [
+      {
+        "slug": "filtros-de-combustible",
+        "nombre": "Filtros de combustible",
+        "cantidad": 6
+      },
+      {
+        "slug": "kits-de-juntas-y-diafragmas",
+        "nombre": "Kits de juntas y diafragmas",
+        "cantidad": 18
+      },
+      {
+        "slug": "partes-de-motor-4t-55-65hp-gx160gx200",
+        "nombre": "Partes de motor 4T 5.5-6.5HP GX160/GX200",
+        "cantidad": 1
+      },
+      {
+        "slug": "reemplazos-briggs-stratton",
+        "nombre": "Reemplazos Briggs & Stratton",
+        "cantidad": 1
+      },
+      {
+        "slug": "sin-fines-husqvarna-otros",
+        "nombre": "Sin fines Husqvarna / Otros",
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "slug": "sistemas-de-arranque",
+    "nombre": "Sistemas de arranque",
+    "totalProductos": 116,
+    "subcategorias": [
+      {
+        "slug": "escapes",
+        "nombre": "Escapes",
+        "cantidad": 1
+      },
+      {
+        "slug": "maquinas-4-tiempos",
+        "nombre": "Máquinas 4 tiempos",
+        "cantidad": 19
+      },
+      {
+        "slug": "motores-4t",
+        "nombre": "Motores 4T",
+        "cantidad": 12
+      },
+      {
+        "slug": "reemplazos",
+        "nombre": "Reemplazos",
+        "cantidad": 20
+      },
+      {
+        "slug": "repuestos",
+        "nombre": "Repuestos",
+        "cantidad": 31
+      },
+      {
+        "slug": "tapas-de-arranque",
+        "nombre": "Tapas de arranque",
+        "cantidad": 33
+      }
+    ]
+  },
+  {
+    "slug": "sopladoras",
+    "nombre": "Sopladoras",
+    "totalProductos": 17,
+    "subcategorias": [
+      {
+        "slug": "bobina-de-ignicion",
+        "nombre": "Bobina de ignición",
+        "cantidad": 5
+      },
+      {
+        "slug": "carburadores",
+        "nombre": "Carburadores",
+        "cantidad": 6
+      },
+      {
+        "slug": "cilindros-y-pistones",
+        "nombre": "Cilindros y pistones",
+        "cantidad": 4
+      },
+      {
+        "slug": "filtros-de-aire-sopladoras-2t",
+        "nombre": "Filtros de aire sopladoras 2T",
+        "cantidad": 2
+      }
+    ]
+  }
+]
